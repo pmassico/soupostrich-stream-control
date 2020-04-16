@@ -1,6 +1,6 @@
 Stream Control App (build)
-Coded in C#
 
+Code included in "VS Project Files.zip"
 
 Important:
 - Apply has to be pressed after swap
